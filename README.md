@@ -14,10 +14,10 @@
  
  
  
- https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+ [<img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
  
  
- ![image](https://user-images.githubusercontent.com/10561513/196757940-c7db9650-1e54-4b26-9734-83e6c123191c.png)
+ [<img src = "https://user-images.githubusercontent.com/10561513/196757940-c7db9650-1e54-4b26-9734-83e6c123191c.png" />]
 
  
 
