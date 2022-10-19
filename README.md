@@ -5,7 +5,7 @@
 - 💬 Ask me about Excel, Power BI, SQL, SAS, Python
 - 📫 How to reach me: 
 <a href="mailto:rockigo@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-![image]({linkedin.com/in/rodrigohigashi}) (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![LinkedIn.com/in/rodrigohigashi](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   
 - ⚡ Interests: music, arts, books, sports, meditation, wellness, travels.
 -->
