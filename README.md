@@ -12,12 +12,14 @@
  
  languages and tools:
  
+ <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+ <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  
- 
- [<img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
- 
- 
- [<img src = "https://user-images.githubusercontent.com/10561513/196757940-c7db9650-1e54-4b26-9734-83e6c123191c.png" />]
+ To listen songs or find out songs:
+ <img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+ <img src = "https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white" />
+ <img src = "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 
  
 
