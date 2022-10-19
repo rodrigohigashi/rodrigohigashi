@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on projects using Python
+- 🔭 I’m currently working on projects using Python, SQL and Power BI
 - 🌱 I’m currently learning Python, Storytelling and A/B Tests
 - 🤝 I’m looking to collaborate on data analysis and posteriorly data science projects.
 - 💬 Ask me about Excel, Power BI, SQL, SAS, Python
