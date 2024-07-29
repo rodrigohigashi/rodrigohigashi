@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 - 🔭 I’m currently working on projects using Python, SQL and Power BI
-- 🌱 I’m currently learning Python, Storytelling and A/B Tests
+- 🌱 I’m currently learning Python libraries
 - 🤝 I’m looking to collaborate on data analysis and posteriorly data science projects.
 - 💬 Ask me about Excel, Power BI, SQL, SAS, Python
 - ⚡ Interests: 🎼music, 🎨arts, 📚books, 🏃‍♂️sports, 🙏meditation, 🍃medicine plants, ✈️travels, 💰stock market, 🌦️climate change
