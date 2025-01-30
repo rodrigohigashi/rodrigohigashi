@@ -8,7 +8,6 @@
 - 📫 How to reach me: 
 <a href="mailto:rockigo@gmail.com">![rockigo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigohigashi/)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://www.twitter.com/rodrigohigashi)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rockigo)  
 [![Portfolio Badge](https://img.shields.io/badge/-Portfólio-00C4CC?style=flat&logo=vercel&logoColor=white)](https://www.datascienceportfol.io/rockigo)
 
